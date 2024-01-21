@@ -16,6 +16,9 @@ func main() {
 		name,
 		openRate,
 	)
-
+    
 	fmt.Println(msg)
+
+  var a = "lalala"
+  fmt.Sprintf(a)
 }
